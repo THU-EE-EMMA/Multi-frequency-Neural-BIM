@@ -1,0 +1,18 @@
+seed: 42
+use_cuda: true
+device_ids: [0, 1, 2]
+num_epochs: 260
+batch_size: 20
+num_workers: 22
+learning_rate: 0.003  
+scheduler_step_size: 20
+scheduler_gamma: 0.8
+height: 32
+width: 32
+num_receivers: 32
+train_split: 0.8
+num_blocks: 1
+# pretrained_model_path: "./res_multiF1.pth"
+pretrained_model_path: null
+output_dir: "./results"
+save_interval: 20
