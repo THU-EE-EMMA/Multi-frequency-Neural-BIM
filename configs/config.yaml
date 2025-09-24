@@ -12,7 +12,8 @@ width: 32
 num_receivers: 32
 train_split: 0.8
 num_blocks: 1
-# pretrained_model_path: "./res_multiF1.pth"
+pretrained_model_path: "./res_multiF1.pth"
 pretrained_model_path: null
 output_dir: "./results"
+
 save_interval: 20
