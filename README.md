@@ -1,5 +1,5 @@
 # Multi-frequency-Neural-BIM
-Code release for the TCI paper [[`"Multi-frequency Neural Born Iterative Method for Solving 2-D Inverse Scattering Problems"`](https://ieeexplore.ieee.org/document/11153069). 
+Code release for the TCI paper [`"Multi-frequency Neural Born Iterative Method for Solving 2-D Inverse Scattering Problems"`](https://ieeexplore.ieee.org/document/11153069). 
 
 # Citation
 
